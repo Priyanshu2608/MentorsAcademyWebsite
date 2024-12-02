@@ -1,0 +1,20 @@
+nav{
+    color: rgb(6, 6, 133);
+}
+ul{
+    display: flex;
+    justify-content: center;
+    gap:170px;
+    border-bottom: 2px solid black;
+    list-style: none;
+    padding-left: 450px;
+    margin-top: -20px;
+}
+li{
+    font-size: 20px;
+    font-weight: bold;
+}
+.Head{
+    font-weight: bolder;
+}
+
