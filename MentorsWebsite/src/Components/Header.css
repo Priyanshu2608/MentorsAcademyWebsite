@@ -1,11 +1,11 @@
+
 p {
-    margin-top: -10px;
+    
     padding-bottom: 14px;
     background-color: rgb(7, 7, 135);
     color: white;
     word-spacing: 10px;
-    margin-left: -8px;
-    margin-right: -8px;
+   
     text-align: center;
-    
+    padding-top: 3px;
 }

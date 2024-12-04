@@ -4,8 +4,11 @@
     color: white ;
     font-weight: 100;
     font-size: 15px;
-    margin-top: 645px;
-    height: 20px;
-    margin-left: -10px;
-    margin-right: -8px;
+    position: absolute;
+    bottom: 0px;
+    left: 0px;
+    width: 100%;
+    
+    
+   
 }
