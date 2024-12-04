@@ -1,8 +1,9 @@
 nav{
     color: rgb(6, 6, 133);
-    
+     
 }
 ul{
+    
     display: flex;
     justify-content: center;
     gap:170px;
