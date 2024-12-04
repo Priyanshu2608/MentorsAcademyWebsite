@@ -24,4 +24,9 @@ li{
     padding-top: 20px;
     padding-left: 10px;
 }
+ a li{
+    color:rgb(6, 6, 133); 
+    text-decoration: none;
+    text-decoration-line: none;
+}
 
