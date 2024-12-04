@@ -11,7 +11,14 @@ const Mainpage = () => {
           <h2 className="coverline">Welcome To Mentors' Academy</h2>
           <h3 className="subhead">"Discover the joy of learning"</h3>
         </div>
-        <div className="open"><a className="ad" href="">Admissions Open </a></div>
+        <div className="open">
+          <a
+            className="ad"
+            href="https://docs.google.com/forms/d/e/1FAIpQLSc2N0nTXUwFHx5jVwL2gKv-Or-QCMh5BQIpSSCqV_6AYn0mKw/viewform?usp=header"
+          >
+            Admissions Open{" "}
+          </a>
+        </div>
       </div>
       <div className="content">
         <h1 className="who">Who We Are?</h1>
