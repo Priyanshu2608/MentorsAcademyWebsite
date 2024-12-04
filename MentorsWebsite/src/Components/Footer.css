@@ -4,8 +4,8 @@
     color: white ;
     font-weight: 100;
     font-size: 15px;
-    position: absolute;
-    bottom: 0px;
+    position:relative;
+    bottom: -190px;
     left: 0px;
     width: 100%;
     
