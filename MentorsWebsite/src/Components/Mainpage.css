@@ -119,3 +119,12 @@
     font-weight:400 ;
     font-style: italic;
   }
+  .video2{
+    height: 500px;
+    width: 500px;
+    background-color: rgb(226, 225, 225);
+    margin-top: 150px;
+    margin-left: 20px;
+    border: 3px solid black;
+    border-radius: 30px;
+  }

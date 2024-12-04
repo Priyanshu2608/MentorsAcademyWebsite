@@ -2,6 +2,7 @@ import React from "react";
 import "./Mainpage.css";
 import Adv from "../assets/men.jpg";
 import vid from "../assets/vid.mp4";
+import vid2 from "../assets/vid2.mp4";
 
 const Mainpage = () => {
   return (
@@ -63,6 +64,9 @@ const Mainpage = () => {
               success."
             </h3>
           </div>
+        </div>
+        <div className="vid2">
+            <video className="video2" controls src={vid2}></video>
         </div>
       </div>
     </div>
