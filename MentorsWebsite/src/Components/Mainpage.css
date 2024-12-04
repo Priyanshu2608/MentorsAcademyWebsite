@@ -1,4 +1,8 @@
-.back{
+@import url('https://fonts.googleapis.com/css2?family=Oswald:wght@200..700&family=Playfair+Display:ital,wght@0,400..900;1,400..900&display=swap');
+.container{
+    position: relative;
+    text-align: center;
+    color: white;
     background-color: black;
 }
 .main{
@@ -6,8 +10,38 @@
     margin-left: auto;
     margin-right: auto;
     width: 100%;
-    height: 640px;
+    height: 650px;
     opacity: 40%;
+}
+.write{
+    position: absolute;
+    top: 25%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    
+}
+.coverline{
+    font-family:'Oswald';
+    font-size: 65px;
+    font-weight: 700;
+}
+.subhead{
+    font-family: 'Oswald';
+    font-size: 50px;
+    font-weight: 400;
+    font-style: italic;
+}
 
-   
+.open{
+    position: absolute;
+    top: 60%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    font-size: 30px;
+    border: 2px solid white;
+    font-weight: 400;
+    font-family: 'Playfair Display';
+    border-radius: 20px;
+    padding:  0px 8px 8px 8px
+
 }

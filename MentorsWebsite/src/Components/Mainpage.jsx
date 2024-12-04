@@ -1,13 +1,21 @@
 import React from 'react'
 import './Mainpage.css'
-import Adv from '../assets/mentor2.jpg'
+import Adv from '../assets/men.jpg'
 
 const Mainpage = () => {
   return (
     <div>
-      <div className='back'>
+    <div className='container'>
+      
         <img className='main' src={Adv} alt="" />
-      </div>
+        <div className="write"><h2 className='coverline'>Welcome To Mentors' Academy</h2>
+            <h3 className='subhead'>"Discover the joy of learning"</h3>
+            
+    
+    </div>
+    <div className='open'>Admissions Open </div>
+    </div>
+
     </div>
   )
 }

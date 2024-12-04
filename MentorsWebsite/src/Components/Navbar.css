@@ -7,7 +7,7 @@ ul{
     display: flex;
     justify-content: center;
     gap:170px;
-    border-bottom: 2px solid black;
+    border-bottom: 5px solid rgb(6, 6, 133);
     list-style: none;
     padding-left: 450px;
     padding-bottom: 10px;
