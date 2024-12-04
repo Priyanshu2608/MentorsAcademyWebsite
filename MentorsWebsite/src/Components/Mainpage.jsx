@@ -55,7 +55,14 @@ const Mainpage = () => {
           </div>
         </div>
         <div className="vid">
-            <video className="vid1" src={vid} controls></video>
+          <video className="vid1" src={vid} controls ></video>
+          <div className="side-box">
+            <h3 className="side-content">
+              "Mentors Academy: Shaping bright futures with exceptional teaching,
+              a nurturing environment, and a commitment to every child's
+              success."
+            </h3>
+          </div>
         </div>
       </div>
     </div>
