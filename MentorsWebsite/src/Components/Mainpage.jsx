@@ -1,6 +1,7 @@
 import React from "react";
 import "./Mainpage.css";
 import Adv from "../assets/men.jpg";
+import vid from "../assets/vid.mp4";
 
 const Mainpage = () => {
   return (
@@ -39,7 +40,6 @@ const Mainpage = () => {
         <div className="vision">
           <h1 className="vison-head">Our Vision</h1>
           <div className="box-vision">
-            {" "}
             <h3 className="vision-content">
               At Mentors Academy, our vision is to empower every child with the
               knowledge, skills, and confidence to excel in academics and
@@ -53,6 +53,9 @@ const Mainpage = () => {
               world.
             </h3>
           </div>
+        </div>
+        <div className="vid">
+            <video className="vid1" src={vid} controls></video>
         </div>
       </div>
     </div>

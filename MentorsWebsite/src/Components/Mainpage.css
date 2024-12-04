@@ -96,3 +96,10 @@
     font-size: 30px;
     font-weight:400 ;
   }
+  .vid1{
+    height: 500px;
+    width: 500px;
+    background-color: rgb(226, 225, 225);
+    margin-left: 20px;
+    border: 3px solid black;
+  }
