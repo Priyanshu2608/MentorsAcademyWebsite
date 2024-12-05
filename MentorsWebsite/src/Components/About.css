@@ -8,3 +8,22 @@
     background-color: black;
     opacity: 30%;
 }
+.about{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);   
+    color: white;
+    text-align: center;
+}
+.aboutline{
+    font-family:'Oswald';
+    font-size: 65px;
+    font-weight: 700;   
+}
+.quote{
+    padding-top: 20px;
+    font-size: 45px;
+    font-weight: 500;
+    font-style: italic;
+}
