@@ -5,7 +5,7 @@ const About = () => {
   return (
     <div>
       <div className="vidabt">
-        <video src={abt}  autoPlay className='vid3'></video>
+        <video src={abt} loop autoPlay className='vid3'></video>
         <div className="about">
           <h2 className="aboutline">About Our Faculty</h2>
           <h3 className="quote">"Teachers plant seeds of knowledge that grow forever."</h3>
