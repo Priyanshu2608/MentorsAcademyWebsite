@@ -3,6 +3,7 @@ import Navbar from './Components/Navbar'
 import Header from './Components/Header'
 import Main from './Components/Mainpage'
 import Footer from './Components/Footer'
+import About from './Components/About'
 import {createBrowserRouter, RouterProvider} from 'react-router-dom'
 
 const App = () => {
@@ -17,7 +18,7 @@ const App = () => {
     },
     {
       path: "/about",
-      element: <><Navbar/><about/></>
+      element: <><Navbar/><About/></>
     },
     {
       path: "/contact",
