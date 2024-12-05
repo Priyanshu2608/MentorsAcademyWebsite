@@ -68,7 +68,7 @@ const Mainpage = () => {
           </div>
         </div>
         <div className="vid2">
-          <video className="video2" controls autoPlay src={vid2}></video>
+          <video className="video2" controls  src={vid2}></video>
           <div className="side-box2">
             <h3 className="side-content2">
               "Unlock success in Maths and Science with focused, expert-led
