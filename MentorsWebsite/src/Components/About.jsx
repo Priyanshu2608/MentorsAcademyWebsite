@@ -1,9 +1,12 @@
 import React from 'react'
 import './About.css'
+import abt from "../assets/abt.mp4"
 const About = () => {
   return (
     <div>
-      <h1 className="fac">About Our Faculty</h1>
+      <div className="vidabt">
+        <video src={abt} controls className='vid3'></video>
+      </div>
     </div>
   )
 }

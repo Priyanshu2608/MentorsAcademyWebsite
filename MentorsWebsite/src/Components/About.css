@@ -1,11 +1,10 @@
 @import url('https://fonts.googleapis.com/css2?family=Oswald:wght@200..700&family=Playfair+Display:ital,wght@0,400..900;1,400..900&display=swap');
-.fac{
-    text-align: center;
-    font-weight: bolder;
-    font-style:'Playfair Display';
-    font-size: 40px;
-    padding-top: 20px;
-    text-decoration: underline;
-    color:rgb(6, 6, 133);
-    
+.vidabt{
+    background-color: black;
+}
+.vid3{
+    height: 650px;
+    width: 100%;
+    background-color: black;
+    opacity: 30%;
 }
